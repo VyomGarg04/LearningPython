@@ -1,6 +1,6 @@
-# Determine the Largest Number: Write a program that accepts three distinct integers from the user.
-# Using only if, elif, and else statements (do not use the max() function), compare the three numbers.
-# Determine and print the largest of the three numbers.
+'''Determine the Largest Number: Write a program that accepts three distinct integers from the user.
+Using only if, elif, and else statements (do not use the max() function), compare the three numbers.
+Determine and print the largest of the three numbers.'''
 
 a = input("Enter 1st number")
 a = int(a)

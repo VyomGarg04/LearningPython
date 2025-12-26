@@ -1,9 +1,9 @@
-# Triangle Type Checker Write a program that takes three integers as input representing the sides of a triangle.
-# First, determine if the sides can form a valid triangle (the sum of any two sides must be greater than the third). If they cannot, print "Not a valid triangle".
-# If the triangle is valid, verify the following:
-# Print "Equilateral" if all three sides are the same.
-# Print "Isosceles" if exactly two sides are the same.
-# Print "Scalene" if all three sides are different.
+'''Triangle Type Checker Write a program that takes three integers as input representing the sides of a triangle.
+First, determine if the sides can form a valid triangle (the sum of any two sides must be greater than the third). If they cannot, print "Not a valid triangle".
+If the triangle is valid, verify the following:
+Print "Equilateral" if all three sides are the same.
+Print "Isosceles" if exactly two sides are the same.
+Print "Scalene" if all three sides are different.'''
 
 
 side1 = input("Enter the first side ")
