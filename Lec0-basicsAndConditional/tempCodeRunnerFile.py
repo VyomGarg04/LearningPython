@@ -1,3 +1,0 @@
-
-else:
-    print("Not eligible")
