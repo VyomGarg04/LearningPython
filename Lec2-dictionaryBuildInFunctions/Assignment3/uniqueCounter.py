@@ -8,12 +8,11 @@ freq = {}
 
 def frequency(list_data):
     for i in range(len(list_data)):
-        if freq[list_data[i]] == freq[i]:
-            freq[i] +=1
+        if list_data[i] in freq:
+            freq[list_data[i]] +=1
         else:
-            freq[i] = 1
+            freq[list_data[i]] = 1
     return freq
-
 
 inp_str = input("Enter a string")
 
