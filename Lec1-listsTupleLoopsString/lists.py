@@ -1,7 +1,6 @@
 
 #defining lists in python
 #lista are mutable
-#it is homogenous
 
 a = [1,2,3]
 
